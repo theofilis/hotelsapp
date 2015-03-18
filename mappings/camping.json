@@ -1,0 +1,63 @@
+{
+    "camping": {
+        "properties": {
+            "title": {
+                "type": "string"
+            },
+            "region": {
+                "type": "string"
+            },
+            "municipality": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "region_region": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "email": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "phone": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "postal_code": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "address": {
+                "type": "string"
+            },
+            "businessman": {
+                "type": "string"
+            },
+            "class": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "municipality_code": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "issue_authorization_date": {
+                "type": "date",
+                "format": "YYYY-MM-dd"
+            },
+            "open_year": {
+                "type": "date",
+                "format": "YYYY-MM-dd"
+            },
+            "authorized_number_places": {
+                "type": "integer"
+            },
+            "authorized_number_people": {
+                "type": "integer"
+            },
+            "authorized_number_lodgings": {
+                "type": "integer"
+            }
+        }
+    }
+}

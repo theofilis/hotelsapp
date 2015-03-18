@@ -1,0 +1,19 @@
+{
+    "query": {
+        "filtered": {
+            "filter": {
+                "term": {
+                    "email": ""
+                }
+            }
+        }
+    },
+    "size": 0,
+    "aggs": {
+        "email_stats": {
+            "value_count": {
+                "field": "email"
+            }
+        }
+    }
+}

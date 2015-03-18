@@ -1,0 +1,77 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="container-full" style="background: url('css/img/parthenon-athens.jpg');">
+      <div class="col-lg-12 text-center v-center" >
+
+        <br>
+
+        <form ng-submit="showResults(searchTerm)" class="col-lg-12">
+          <div class="input-group" style="width:340px;text-align:center;margin:0 auto;">
+            <input ng-model="searchTerm" class="form-control input-lg" title="Don't worry. We hate spam, and will not share your email with anyone." placeholder="Αναζήτησε τους όρους" type="text">
+            <span class="input-group-btn"><button class="btn btn-lg btn-primary" type="submit">Αναζήτηση</button></span>
+          </div>
+        </form>
+        <br><br><br>
+      </div>
+    </div>
+    <!-- <div id="wrapper">
+      <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+          <li class="sidebar-brand">
+            <a href="#">
+              Start Bootstrap
+            </a>
+          </li>
+          <li>
+            <a href="#">Dashboard</a>
+          </li>
+          <li>
+            <a href="#">Shortcuts</a>
+          </li>
+          <li>
+            <a href="#">Overview</a>
+          </li>
+          <li>
+            <a href="#">Events</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Services</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </div> -->
+      <!-- <div id="page-content-wrapper">
+        <div class="container-fluid">
+          <div class="row"> -->
+            <div class="panel panel-default">
+             <table class="table">
+              <thead>
+                <tr>
+                  <th>Όνομα</th>
+                  <th>Νομός</th>
+                  <th>Δήμος</th>
+                  <th>Αστέρια</th>
+                  <th>Επικοινωνία</th>
+                </tr>
+              </thead>
+              <tbody ng-repeat="item in results | filter:searchTerm">
+                <tr>
+                  <td>{{item["_source"].title}}</td>
+                  <td>{{item["_source"].region}}</td>
+                  <td>{{item["_source"].municipality}}</td>
+                  <td>{{item["_source"].class}}</td>
+                  <td>{{item["_source"].businessman}} - {{item["_source"].phone}}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

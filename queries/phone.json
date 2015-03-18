@@ -1,0 +1,19 @@
+{
+    "query": {
+        "filtered": {
+            "filter": {
+                "term": {
+                    "phone": ""
+                }
+            }
+        }
+    },
+    "size": 0,
+    "aggs": {
+        "email_stats": {
+            "value_count": {
+                "field": "phone"
+            }
+        }
+    }
+}

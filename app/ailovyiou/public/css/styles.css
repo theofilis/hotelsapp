@@ -1,0 +1,53 @@
+html,body {
+  height:100%;
+}
+
+.btn-primary{
+  background-color: #025BCF;
+  border-color: #025BCF;
+}
+
+.panel-default>.panel-heading{
+  background-color: #759FD1;
+}
+
+h1 {
+  font-family: Arial,sans-serif
+  font-size:80px;
+  color:#F8F8F8;
+}
+
+.lead {
+	color:#F8F8F8;
+}
+
+
+/* Custom container */
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background: white url("img/Santorini-Greece-5.jpg") no-repeat center center;
+  background-size: 100% 100%;
+  color:#eee;
+  overflow:hidden;
+}
+
+.results {
+  margin: 0 auto;
+  width: 100%;
+  min-height:100%;
+  background: white url("img/parthenon-athens.jpg") no-repeat center center;;
+  color:#eee;
+  overflow:hidden;
+}
+
+.container-full a {
+  color:white;
+  text-decoration:none;
+}
+
+.v-center {
+  margin-top:7%;
+}
+  

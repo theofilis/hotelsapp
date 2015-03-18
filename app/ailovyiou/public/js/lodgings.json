@@ -1,0 +1,315 @@
+{
+
+    "took": 5,
+    "timed_out": false,
+    "_shards": 
+
+{
+
+    "total": 10,
+    "successful": 10,
+    "failed": 0
+
+},
+"hits":
+{
+
+    "total": 9774,
+    "max_score": 1,
+    "hits": 
+
+[
+
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4001",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΕΡΙΣΟΥ",
+        "title": "\"ΑΛΜΥΡΑ\"",
+        "municipality": "ΚΕΦΑΛΟΝΙΑΣ",
+        "region": "Δυτικής Ελλάδας",
+        "trademark": "0458Κ013Α0037801",
+        "open_year": "2006-03-14",
+        "region_region": "Κεφαλληνίας",
+        "email": "info@almyrafiskardo.gr",
+        "total_rooms": "25",
+        "phone": "2674041064",
+        "postal_code": "28084",
+        "address": "ΦΙΣΚΑΡΔΟΕΡΙΣΟΥ",
+        "owner": "ΔΕΝΔΡΙΝΟΣ ΠΟΛΥΧΡΟΝΗΣ",
+        "businessman": "ΔΕΝΔΡΙΝΟΣ ΠΟΛΥΧΡΟΝΗΣ",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "3Α",
+        "total_beds": "58"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4018",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΑΡΓΟΣΤΟΛΙΟΥ",
+        "title": "\"ΕΝΑΛΙΟΝ ΣΟΥΙΤΕΣ - ENALION SUITES\"",
+        "municipality": "ΚΕΦΑΛΟΝΙΑΣ",
+        "region": "Δυτικής Ελλάδας",
+        "trademark": "0458Κ033Α0026201",
+        "open_year": "2007-03-14",
+        "region_region": "Κεφαλληνίας",
+        "email": "info@enalionsuites.gr",
+        "total_rooms": "28",
+        "phone": "2671027781",
+        "postal_code": "28100",
+        "address": "ΠΑΛΙΟΣΤΑΦΙΔΑ -ΛΑΣΣΗΣΑΡΓΟΣΤΟΛΙΟΥ",
+        "owner": "\"Α. & Ε.Χ. ΣΤΡΙΝΤΖΗΣ ΞΕΝ/ΚΕΣ ΤΟΥΡ/ΚΕΣ ΕΠΙΧ/ΣΕΙΣ ΕΠ",
+        "businessman": "\"Α.& Ε. Χ. ΣΤΡΙΝΤΖΗΣ ΞΕΝ/ΚΕΣ ΤΟΥ/ΚΕΣ ΕΠΙΧ/ΣΕΙΣ ΕΠΕ",
+        "type": "Ξενοδοχείο Τύπου Επιπλωμένων Διαμερισμάτων",
+        "class": "3Α",
+        "total_beds": "90"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4025",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΕΡΙΣΟΥ",
+        "title": "ΣΤΕΛΛΑ",
+        "municipality": "ΚΕΦΑΛΟΝΙΑΣ",
+        "region": "Δυτικής Ελλάδας",
+        "trademark": "0458Κ033Α0080700",
+        "open_year": "1991-03-14",
+        "region_region": "Κεφαλληνίας",
+        "email": "stellapt@otenet.gr",
+        "total_rooms": "9",
+        "phone": "26740 41211",
+        "postal_code": "280 84",
+        "address": "ΦΙΣΚΑΡΔΟ ΚΕΦΑΛ/ΝΙΑΣΕΡΙΣΟΥ",
+        "owner": "ΑΕ ΚΑΜΙΝΑΚΙΑ ΜΠΑΙΗ Ξ.Τ.ΕΠΙΧ.ΦΙΣΚΑΡΔΟΥ ΚΕΦΑΛ/ΝΙΑΣ",
+        "businessman": "ΑΕ ΞΕΝ.ΤΟΥΡ.ΕΠΙΧ.ΦΙΣΚΑΡΔΟΥ ΚΕΦΑΛ.ΚΑΜΙΝΑΚΙΑ ΜΠΑΙΗ",
+        "type": "Ξενοδοχείο Τύπου Επιπλωμένων Διαμερισμάτων",
+        "class": "3Α",
+        "total_beds": "21"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4032",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΕΛΕΙΟΥ - ΠΡΟΝΩΝ",
+        "title": "ΜΑΝΟΛΙΑ - MAGNOLIA",
+        "municipality": "ΚΕΦΑΛΟΝΙΑΣ",
+        "region": "Δυτικής Ελλάδας",
+        "trademark": "0458Κ014Α0183501",
+        "open_year": "2011-03-14",
+        "region_region": "Κεφαλληνίας",
+        "email": "info@themagnoliaresort.com",
+        "total_rooms": "44",
+        "phone": "2671081391",
+        "postal_code": "28082",
+        "address": "ΚΑΤΩ ΚΑΤΕΛΕΙΟΣΕΛΕΙΟΥ - ΠΡΟΝΩΝ",
+        "owner": "ΞΕΝ. & ΤΟΥΡ. ΕΠΙΧ. ΠΑΝΑΓΙΩΤΑ ΣΤΡΟΥΤΖΑ ΚΑΙ ΣΙΑ Α.Ε.",
+        "businessman": "ΞΕΝ. & ΤΟΥΡ. ΕΠΙΧ. ΠΑΝΑΓΙΩΤΑ ΣΤΡΟΥΤΖΑ ΚΑΙ ΣΙΑ Α.Ε.",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "4Α",
+        "total_beds": "88"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4049",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΠΟΛΥΚΑΣΤΡΟΥ",
+        "title": "ΒΙΕΝΝΗ",
+        "municipality": "ΠΑΙΟΝΙΑΣ",
+        "region": "Κεντρικής Μακεδονίας",
+        "trademark": "0934Κ012Α0640800",
+        "open_year": "1995-03-14",
+        "region_region": "Κιλκίς",
+        "email": "",
+        "total_rooms": "12",
+        "phone": "23430 221 35",
+        "postal_code": "612 00",
+        "address": "ΘΕΜΙΣΤΟΚΛΕΟΥΣΠΟΛΥΚΑΣΤΡΟΥ",
+        "owner": "ΚΥΡΙΑΚΙΔΗΣ ΕΥΓΕΝΙΟΣ",
+        "businessman": "ΚΥΡΙΑΚΙΔΗΣ ΘΕΩΔΟΡΟΣ",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "2Α",
+        "total_beds": "22"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4056",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΓΟΥΜΕΝΙΣΣΑΣ",
+        "title": "ΔΗΜΟΣΘΕΝΗΣ",
+        "municipality": "ΠΑΙΟΝΙΑΣ",
+        "region": "Κεντρικής Μακεδονίας",
+        "trademark": "0934Κ013Α0634200",
+        "open_year": "1990-03-14",
+        "region_region": "Κιλκίς",
+        "email": "",
+        "total_rooms": "11",
+        "phone": "23430 413 02",
+        "postal_code": "613 00",
+        "address": "ΚΟΥΝΤΟΥΡΙΩΤΟΥ 17, Ν. ΚΙΛΚΙΣΓΟΥΜΕΝΙΣΣΑΣ",
+        "owner": "ΜΟΥΖΟΥΡΗΣ ΔΗΜΗΤΡΙΟΣ",
+        "businessman": "ΜΟΥΖΟΥΡΗ ΜΑΡΙΑ",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "3Α",
+        "total_beds": "27"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4063",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΚΟΖΑΝΗΣ",
+        "title": "ΕΡΜΙΟΝΙΟ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+        "municipality": "ΚΟΖΑΝΗΣ",
+        "region": "Δυτικής Μακεδονίας",
+        "trademark": "0518Κ06ΑΑ0010100",
+        "open_year": "1960-03-14",
+        "region_region": "Κοζάνης",
+        "email": "",
+        "total_rooms": "14",
+        "phone": "2461039400",
+        "postal_code": "50100",
+        "address": "ΚΟΖΑΝΗΚΟΖΑΝΗΣ",
+        "owner": "ΓΡΗΓΟΡΙΑΔΗΣ ΒΑΣ,ΣΤΑΥ,ΗΛ,ΔΕΣΠ & ΒΑΣΙΛΟΥ ΚΥΡ.",
+        "businessman": "ΕΡΜΙΟΝΙΟ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+        "type": "Παραδοσιακό Ξενοδοχείο Κλασικού Τύπου",
+        "class": "ΑΑ",
+        "total_beds": "32"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4070",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΚΟΖΑΝΗΣ",
+        "title": "ΚΑΤΕΡΙΝΑ",
+        "municipality": "ΚΟΖΑΝΗΣ",
+        "region": "Δυτικής Μακεδονίας",
+        "trademark": "0518Κ012Α0010801",
+        "open_year": "1987-03-14",
+        "region_region": "Κοζάνης",
+        "email": "hotelkaterina@yahoo.com",
+        "total_rooms": "39",
+        "phone": "2461034856",
+        "postal_code": "501 00",
+        "address": "3ης ΣΕΠΤΕΜΒΡΙΟΥ ΚΑΙ ΠΤΟΛΕΜΑΪΔΟΣΚΟΖΑΝΗΣ",
+        "owner": "ΜΠΕΛΛΟΣ ΖΗΣΗΣ Ξ.Τ.Ε. Α.Ε.",
+        "businessman": "ΜΠΕΛΛΟΣ ΖΗΣΗΣ Ξ.Τ.Ε. Α.Ε.",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "2Α",
+        "total_beds": "68"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4087",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΣΙΑΤΙΣΤΑΣ",
+        "title": "ΣΙΑΤΙΣΤΙΝΟ ΑΡΧΟΝΤΑΡΙΚΙ",
+        "municipality": "ΒΟΪΟΥ",
+        "region": "Δυτικής Μακεδονίας",
+        "trademark": "0518Κ013Α0012800",
+        "open_year": "2003-03-14",
+        "region_region": "Κοζάνης",
+        "email": "",
+        "total_rooms": "12",
+        "phone": "2465047020",
+        "postal_code": "50300",
+        "address": "ΚΑΡΑΤΖΙΑ 2ΣΙΑΤΙΣΤΑΣ",
+        "owner": "ΔΑΡΔΑ ΚΑΛΛΙΟΠΗ",
+        "businessman": "ΔΑΡΔΑ ΚΑΛΛΙΟΠΗ",
+        "type": "Ξενοδοχείο Κλασικού Τύπου",
+        "class": "3Α",
+        "total_beds": "27"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "lodgings",
+    "_id": "lodgings_4094",
+    "_score": 1,
+    "_source": 
+
+                {
+                    "municipality_region": "ΕΥΡΩΣΤΙΝΗΣ",
+                    "title": "ΑΡΧΟΝΤΙΚΟ ΚΑΡΑΒΑ «ΤΑΜΠΟΥΖΑΝΗ›",
+                    "municipality": "ΞΥΛΟΚΑΣΤΡΟΥ-ΕΥΡΩΣΤΙΝΗΣ",
+                    "region": "Πελοποννήσου",
+                    "trademark": "1247Κ050Β0007601",
+                    "open_year": "2008-03-14",
+                    "region_region": "Κορινθίας",
+                    "email": "",
+                    "total_rooms": "3",
+                    "phone": "2743032055",
+                    "postal_code": "",
+                    "address": "ΖΑΧΟΛΗ ΕΥΡΩΣΤΙΝΗΣΕΥΡΩΣΤΙΝΗΣ",
+                    "owner": "ΚΑΡΑΒΑΣ ΑΓΓΕΛΟΣ & ΒΑΣΙΛΗΣ",
+                    "businessman": "ΚΑΡΑΒΑΣ ΑΓΓΕΛΟΣ",
+                    "type": "Παραδοσιακό κατάλυμα",
+                    "class": "0Β",
+                    "total_beds": "12"
+                }
+            }
+        ]
+    }
+
+}

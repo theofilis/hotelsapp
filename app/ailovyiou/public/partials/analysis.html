@@ -1,0 +1,25 @@
+<div class="container">
+	<div class="row">
+		<h1>Historical Trends in Greece Touristic Business</h1>
+		<div class="form-group">
+			<label class="control-label">
+				Region: 
+			</label>
+			<select ng-model="id" class="form-control">
+				<option ng-repeat="(id, n) in name" value="{{id}}">{{n}}</option>
+			</select>
+		</div>
+	</div>
+	<div id="mydiv" class="row">
+		<div id="trend" style="margin-top: 50px;" class="col-sm-12"></div>	
+	</div>
+	<div>
+		<p>
+			H αρχαιότερη τουριστική επιχείρηση στην <b>{{name[id]}}</b> ανοιξέ το <b>{{min.date | date}}</b>
+		</p>
+		<p>
+			H νεότερη τουριστική επιχείρηση στην <b>{{name[id]}}</b> ανοιξέ το <b>{{max.date | date}}</b>
+		</p>
+	</div>
+</div>
+

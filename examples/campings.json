@@ -1,0 +1,305 @@
+{
+
+    "took": 4,
+    "timed_out": false,
+    "_shards": 
+
+{
+
+    "total": 10,
+    "successful": 10,
+    "failed": 0
+
+},
+"hits":
+{
+
+    "total": 298,
+    "max_score": 1,
+    "hits": 
+
+[
+
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_30",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "73",
+        "municipality_code": "9137",
+        "title": "ΟΛΥΜΠΙΑ",
+        "region": "Δυτικής Ελλάδας",
+        "municipality": "ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+        "open_year": "1982-03-14",
+        "region_region": "Ηλείας",
+        "class": "0Β",
+        "phone": "6944321637",
+        "postal_code": "27065",
+        "authorized_number_lodgings": "0",
+        "address": "ΟΛΥΜΠΙΑ",
+        "businessman": "ΜΑΜΟΥΣΗΣ ΙΩΑΝΝΗΣ ΤΟΥ ΓΕΩΡΓΙΟΥ",
+        "email": "",
+        "issue_authorization_date": "1982-06-06",
+        "authorized_number_people": "219"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_47",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "45",
+        "municipality_code": "9089",
+        "title": "ΠΑΡΓΑ",
+        "region": "Ηπείρου",
+        "municipality": "ΠΑΡΓΑΣ",
+        "open_year": "1977-03-14",
+        "region_region": "Πρεβέζης",
+        "class": "0Γ",
+        "phone": "2684031161",
+        "postal_code": "48060",
+        "authorized_number_lodgings": "",
+        "address": "ΠΑΡΓΑ ΠΡΕΒΕΖΗΣ",
+        "businessman": "ΓΕΩΡΓΙΟΥ ΔΑΦΝΗ",
+        "email": "",
+        "issue_authorization_date": null,
+        "authorized_number_people": "135"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_54",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "86",
+        "municipality_code": "9090",
+        "title": "ΚΑΛΑΜΙΤΣΙ -",
+        "region": "Ηπείρου",
+        "municipality": "ΠΡΕΒΕΖΗΣ",
+        "open_year": "1997-03-14",
+        "region_region": "Πρεβέζης",
+        "class": "0Γ",
+        "phone": "2682-0-22192",
+        "postal_code": "481 00",
+        "authorized_number_lodgings": "14",
+        "address": "ΚΑΛΑΜΙΤΣΙ ΠΡΕΒΕΖΗΣ",
+        "businessman": "IMMOBILIARE ΕΜΠΟΡΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ Ε.Π.Ε.",
+        "email": "",
+        "issue_authorization_date": "1997-04-14",
+        "authorized_number_people": "400"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_61",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "55",
+        "municipality_code": "9107",
+        "title": "ΟΛΙΖΩΝ",
+        "region": "Θεσσαλίας",
+        "municipality": "ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+        "open_year": "1976-03-14",
+        "region_region": "Μαγνησίας",
+        "class": "0Γ",
+        "phone": "2423065236",
+        "postal_code": "37013",
+        "authorized_number_lodgings": "0",
+        "address": "ΜΗΛΙΝΑ ΠΗΛΙΟΥ",
+        "businessman": "ΚΥΡΙΑΚΟΥ ΔΗΜΟΣ & ΣΙΑ Ο.Ε.",
+        "email": "",
+        "issue_authorization_date": "1976-07-01",
+        "authorized_number_people": "165"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_78",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "63",
+        "municipality_code": "9118",
+        "title": "ΚΑΡΟΥΣΑΔΕΣ",
+        "region": "Ιονίων Νησιών",
+        "municipality": "ΚΕΡΚΥΡΑΣ",
+        "open_year": "1983-03-14",
+        "region_region": "Κέρκυρας",
+        "class": "0Γ",
+        "phone": "0663-31415",
+        "postal_code": "49081",
+        "authorized_number_lodgings": "0",
+        "address": "ΚΑΡΟΥΣΑΔΕΣ",
+        "businessman": "ΠΕΤΡΑΚΟΥ ΕΛΕΝΗ",
+        "email": "",
+        "issue_authorization_date": "1983-07-25",
+        "authorized_number_people": "189"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_85",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "75",
+        "municipality_code": "9121",
+        "title": "ΚΑΣΤΡΙ",
+        "region": "Ιονίων Νησιών",
+        "municipality": "ΛΕΥΚΑΔΑΣ",
+        "open_year": "2000-03-14",
+        "region_region": "Λευκάδας",
+        "class": "0Β",
+        "phone": "0645-31900/1",
+        "postal_code": "31100",
+        "authorized_number_lodgings": "0",
+        "address": "ΜΑΡΑΝΤΟΧΩΡΙ ΛΕΥΚΑΔΑΣ",
+        "businessman": "ΑΦΕΝΤΟΥΛΙΔΗΣ ΣΑΒΒΑΣ ΤΟΥ ΠΑΝΑΓΙΩΤΗ",
+        "email": "",
+        "issue_authorization_date": "2000-03-21",
+        "authorized_number_people": "300"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_92",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "126",
+        "municipality_code": "9046",
+        "title": "ΑΚΤΗ ΠΟΣΕΙΔΩΝΟΣ",
+        "region": "Κεντρικής Μακεδονίας",
+        "municipality": "ΔΙΟΥ-ΟΛΥΜΠΟΥ",
+        "open_year": "1973-03-14",
+        "region_region": "Πιερίας",
+        "class": "0Γ",
+        "phone": "2352041654, 41792",
+        "postal_code": "600 65",
+        "authorized_number_lodgings": "",
+        "address": "ΠΑΡΑΛΙΑ ΝΕΟΥ ΠΑΝΤΕΛΕΗΜΟΝΑ Ν. ΠΙΕΡΙΑΣ",
+        "businessman": "Α.Ε. ΤΖΟΒΑΣ ΤΟΥΡΙΣΤΙΚΕΣ ΞΕΝΟΔΟΧΕΙΑΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ",
+        "email": "",
+        "issue_authorization_date": "1973-08-13",
+        "authorized_number_people": "504"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_106",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "50",
+        "municipality_code": "9046",
+        "title": "ΗΡΑΚΛΕΙΑ",
+        "region": "Κεντρικής Μακεδονίας",
+        "municipality": "ΔΙΟΥ-ΟΛΥΜΠΟΥ",
+        "open_year": "1982-03-14",
+        "region_region": "Πιερίας",
+        "class": "0Γ",
+        "phone": "2352041403",
+        "postal_code": "600 65",
+        "authorized_number_lodgings": "",
+        "address": "ΠΑΡΑΛΙΑ ΠΑΝΤΕΛΕΗΜΟΝΑ Ν. ΠΙΕΡΙΑΣ",
+        "businessman": "Ο.Ε. ΑΦΟΙ Α. ΤΖΙΟΥΒΑΡΑ ΤΟΥΡΙΣΤΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ",
+        "email": "",
+        "issue_authorization_date": "1982-06-18",
+        "authorized_number_people": "150"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_113",
+    "_score": 1,
+    "_source": 
+
+    {
+        "authorized_number_places": "30",
+        "municipality_code": "9046",
+        "title": "ΧΑΡΙΛΑΟΣ",
+        "region": "Κεντρικής Μακεδονίας",
+        "municipality": "ΔΙΟΥ-ΟΛΥΜΠΟΥ",
+        "open_year": "1997-03-14",
+        "region_region": "Πιερίας",
+        "class": "0Β",
+        "phone": "0352-81760",
+        "postal_code": "60063",
+        "authorized_number_lodgings": "0",
+        "address": "ΠΛΑΚΑ ΛΙΤΟΧΩΡΟΥ",
+        "businessman": "ΤΖΙΑΜΙΧΑΣ ΝΙΚΟΛΑΟΣ",
+        "email": "",
+        "issue_authorization_date": "1997-07-08",
+        "authorized_number_people": "120"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "camping",
+    "_id": "camping_120",
+    "_score": 1,
+    "_source": 
+
+                {
+                    "authorized_number_places": "100",
+                    "municipality_code": "9047",
+                    "title": "ΕΔΕΜ",
+                    "region": "Κεντρικής Μακεδονίας",
+                    "municipality": "ΚΑΤΕΡΙΝΗΣ",
+                    "open_year": "1991-03-14",
+                    "region_region": "Πιερίας",
+                    "class": "0Α",
+                    "phone": "2351061107",
+                    "postal_code": "601 00",
+                    "authorized_number_lodgings": "20",
+                    "address": "ΟΛΥΜΠΙΑΚΗ ΑΚΤΗ Ν. ΠΙΕΡΙΑΣ",
+                    "businessman": "ΤΟΥΡΙΣΤΙΚΕΣ & ΞΕΝΟΔΟΧΕΙΑΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ Σ. ΧΙΟΝΙΔΗΣ",
+                    "email": "",
+                    "issue_authorization_date": "1991-04-16",
+                    "authorized_number_people": "480"
+                }
+            }
+        ]
+    }
+
+}

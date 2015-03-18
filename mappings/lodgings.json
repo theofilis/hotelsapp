@@ -1,0 +1,66 @@
+{
+    "lodgings": {
+        "properties": {
+            "municipality_region": {
+                "type": "string"
+            },
+            "title": {
+                "type": "string"
+            },
+            "municipality": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "region": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "trademark": {
+                "type": "string"
+            },
+            "region_region": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "email": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "phone": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "postal_code": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "address": {
+                "type": "string"
+            },
+            "owner": {
+                "type": "string"
+            },
+            "businessman": {
+                "type": "string"
+            },
+            "type": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "class": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "open_year": {
+                "type": "date",
+                "format" : "YYYY-MM-dd"
+            },
+            "total_beds": {
+                "type": "integer"
+            },
+            "total_rooms": {
+                "type": "integer"
+            }
+        }
+    }
+}

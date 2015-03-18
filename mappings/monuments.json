@@ -1,0 +1,80 @@
+{
+    "monuments": {
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "region": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "county": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "municipality": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "department": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "housing_estate": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "position": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "ESYE": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "notes": {
+                "type": "string"
+            },
+            "date": {
+                "type": "date",
+                "format" : "YYYY-MM-dd HH:mm:SS"
+            },
+            "code": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "period": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "declaration": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "type": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "regime": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "carrier": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "seat": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "decision": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "fek": {
+                "type": "string",
+                "index": "not_analyzed"
+            }
+        }
+    }
+}

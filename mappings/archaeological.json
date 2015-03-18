@@ -1,0 +1,29 @@
+{
+    "archaeological": {
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "address": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "postal_code": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "institute": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "municipality": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "type": {
+                "type": "string",
+                "index": "not_analyzed"
+            }
+        }
+    }
+}

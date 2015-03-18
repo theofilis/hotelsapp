@@ -10,7 +10,7 @@ from dateutil.parser import parse
 
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch()
+es = Elasticsearch(['https://8c7bnf9igs:s47tpa0yk6@hackathon-7266598270.eu-west-1.bonsai.io'])
 
 logger = logging.getLogger(__name__)
 

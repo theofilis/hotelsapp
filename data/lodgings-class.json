@@ -1,0 +1,54 @@
+{
+    "took": 24,
+    "timed_out": false,
+    "_shards": {
+        "total": 10,
+        "successful": 10,
+        "failed": 0
+    },
+    "hits": {
+        "total": 9774,
+        "max_score": 0,
+        "hits": []
+    },
+    "aggregations": {
+        "rooms": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [{
+                "key": "2Α",
+                "doc_count": 4075
+            }, {
+                "key": "3Α",
+                "doc_count": 1958
+            }, {
+                "key": "1Α",
+                "doc_count": 1448
+            }, {
+                "key": "4Α",
+                "doc_count": 887
+            }, {
+                "key": "0Α",
+                "doc_count": 364
+            }, {
+                "key": "0Β",
+                "doc_count": 343
+            }, {
+                "key": "5Α",
+                "doc_count": 297
+            }, {
+                "key": "0Γ",
+                "doc_count": 244
+            }, {
+                "key": "0Δ",
+                "doc_count": 62
+            }, {
+                "key": "0Ε",
+                "doc_count": 59
+            }, {
+                "key": "ΑΑ",
+                "doc_count": 37
+            }]
+        }
+    }
+}

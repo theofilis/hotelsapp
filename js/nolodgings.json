@@ -1,0 +1,315 @@
+{
+
+    "took": 10,
+    "timed_out": false,
+    "_shards": 
+
+{
+
+    "total": 10,
+    "successful": 10,
+    "failed": 0
+
+},
+"hits":
+{
+
+    "total": 23626,
+    "max_score": 1,
+    "hits": 
+
+[
+
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_200",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΚΡΑΝΙΔΙΟΥ",
+        "title": "",
+        "municipality": "ΕΡΜΙΟΝΙΔΑΣ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ132Κ0214601",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "17",
+        "phone": "27540/51568",
+        "postal_code": "21300",
+        "address": "ΠΟΡΤΟ ΧΕΛΙΚΡΑΝΙΔΙΟΥ",
+        "owner": "ΛΟΥΖΗΣ ΓΕΩΡΓΙΟΣ",
+        "businessman": "ΛΟΥΖΗΣ ΝΙΚΟΛΑΟΣ",
+        "type": "Μικτή μορφή Ενοικιαζομένων δωματίων και Ενοικιαζομένων επιπλωμένων διαμερισμάτων",
+        "class": "2Κ",
+        "total_beds": "40"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_217",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΕΠΙΔΑΥΡΟΥ",
+        "title": "",
+        "municipality": "ΕΠΙΔΑΥΡΟΥ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ113Κ0230501",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "7",
+        "phone": "27520/41706",
+        "postal_code": "21059",
+        "address": "ΠΑΛΑΙΑ ΕΠΙΔΑΥΡΟΣΕΠΙΔΑΥΡΟΥ",
+        "owner": "ΔΙΔΑΣΚΑΛΟΥ ΣΩΚΡΑΤΗΣ",
+        "businessman": "ΔΙΔΑΣΚΑΛΟΥ ΣΩΚΡΑΤΗΣ , ΒΑΣΙΛ., ΖΩΪΤΣΑ",
+        "type": "Ενοικιαζόμενα δωμάτια",
+        "class": "3Κ",
+        "total_beds": "16"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_224",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΑΣΙΝΗΣ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ113Κ0198801",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "7",
+        "phone": "275208/59278",
+        "postal_code": "21056",
+        "address": "ΤΟΛΟΑΣΙΝΗΣ",
+        "owner": "ΓΚΙΩΝΗΣ ΜΙΧΑΗΛ",
+        "businessman": "ΓΚΙΩΝΗΣ ΒΑΣΙΛΕΙΟΣ",
+        "type": "Ενοικιαζόμενα δωμάτια",
+        "class": "3Κ",
+        "total_beds": "17"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_231",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΝΑΥΠΛΙΟΥ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ113Κ0225201",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "9",
+        "phone": "27520-28494 & 6973327744",
+        "postal_code": "21100",
+        "address": "ΟΘΩΝΟΣ 47ΝΑΥΠΛΙΟΥ",
+        "owner": "ΜΙΧΕΛΑΚΗΣ ΠΑΝΑΓΙΩΤΗΣ ΤΟΥ ΕΥΑΓΓΕΛΟΥ",
+        "businessman": "ΒΑΣΙΛΟΠΟΥΛΟΣ ΒΑΣΙΛΕΙΟΣ ΤΟΥ ΚΩΝ/ΝΟΥ",
+        "type": "Ενοικιαζόμενα δωμάτια",
+        "class": "3Κ",
+        "total_beds": "18"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_248",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΝΑΥΠΛΙΟΥ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ123Κ0225801",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "3",
+        "phone": "27520-21557",
+        "postal_code": "21100",
+        "address": "ΑΓΓ.ΤΕΡΖΑΚΗ & ΠΑΠΑΝΙΚΟΛΑΟΥ 1ΝΑΥΠΛΙΟΥ",
+        "owner": "ΑΝΑΓΝΩΣΤΑΚΗ ΒΑΣΙΛΙΚΗ ΤΟΥ ΝΙΚΟΛΑΟΥ",
+        "businessman": "ΑΝΑΓΝΩΣΤΑΚΗ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΙΩΑΝΝΗ",
+        "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+        "class": "3Κ",
+        "total_beds": "6"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_255",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΑΣΙΝΗΣ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ123Κ0201401",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "11",
+        "phone": "27520/59028",
+        "postal_code": "21056",
+        "address": "ΤΟΛΟΑΣΙΝΗΣ",
+        "owner": "ΑΦΟΙ Π. ΣΚΑΛΙΔΗ & ΣΙΑ Ο.Ε.",
+        "businessman": "ΣΚΑΛΙΔΗ ΒΑΣΙΛΙΚΗ",
+        "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+        "class": "3Κ",
+        "total_beds": "22"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_262",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΑΣΙΝΗΣ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ123Κ0229801",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "10",
+        "phone": "27520/92346",
+        "postal_code": "21100",
+        "address": "ΔΡΕΠΑΝΟΑΣΙΝΗΣ",
+        "owner": "ΤΡΑΚΑΣ ΔΗΜΗΤΡΙΟΣ",
+        "businessman": "ΤΡΑΚΑΣ ΓΕΩΡΓΙΟΣ",
+        "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+        "class": "3Κ",
+        "total_beds": "35"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_279",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "ΑΣΙΝΗΣ",
+        "title": "",
+        "municipality": "ΝΑΥΠΛΙΕΩΝ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ123Κ0222001",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "12",
+        "phone": "",
+        "postal_code": "21060",
+        "address": "ΑΣΙΝΗΣ",
+        "owner": "ΚΟΥΝΕΖΗ ΕΥΑΓΓΕΛΙΑ ΤΟΥ ΑΝΑΣΤΑΣΙΟΥ",
+        "businessman": "ΚΟΥΝΕΖΗ ΑΝΝΑ ΤΟΥ ΣΠΥΡΙΔΩΝΑ",
+        "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+        "class": "3Κ",
+        "total_beds": "28"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_286",
+    "_score": 1,
+    "_source": 
+
+    {
+        "municipality_region": "",
+        "title": "",
+        "municipality": "ΕΡΜΙΟΝΙΔΑΣ",
+        "region": "Πελοποννήσου",
+        "trademark": "1245Κ123Κ0175801",
+        "open_year": null,
+        "region_region": "Αργολίδας",
+        "email": "",
+        "total_rooms": "7",
+        "phone": "2754051753-6945894037",
+        "postal_code": "21300",
+        "address": "ΠΟΡΤΟ ΧΕΛΙ ΚΡΑΝΙΔΙΟΥ",
+        "owner": "ΤΖΙΦΑ ΑΙΚΑΤΕΡΙΝΗ -ΤΖΙΦΑ ΕΛΕΝΗ",
+        "businessman": "ΤΖΙΦΑ ΕΥΦΡΟΣΥΝΗ",
+        "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+        "class": "3Κ",
+        "total_beds": "18"
+    }
+
+},
+{
+
+    "_index": "hotels",
+    "_type": "nolodgings",
+    "_id": "nolodgings_293",
+    "_score": 1,
+    "_source": 
+
+                {
+                    "municipality_region": "",
+                    "title": "",
+                    "municipality": "ΝΑΥΠΛΙΕΩΝ",
+                    "region": "Πελοποννήσου",
+                    "trademark": "1245Κ123Κ0175001",
+                    "open_year": null,
+                    "region_region": "Αργολίδας",
+                    "email": "",
+                    "total_rooms": "4",
+                    "phone": "2752027374",
+                    "postal_code": "21100",
+                    "address": "ΣΥΓΚΡΟΥ 7",
+                    "owner": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΕΛΕΝΗ",
+                    "businessman": "ΠΑΠΑΔΟΠΟΥΛΟΥ ΕΥΔΟΚΙΑ",
+                    "type": "Ενοικιαζόμενα επιπλωμένα διαμερίσματα",
+                    "class": "3Κ",
+                    "total_beds": "8"
+                }
+            }
+        ]
+    }
+
+}

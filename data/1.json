@@ -1,0 +1,483 @@
+{
+    "took": 4,
+    "timed_out": false,
+    "_shards": {
+        "total": 10,
+        "successful": 10,
+        "failed": 0
+    },
+    "hits": {
+        "total": 1066,
+        "max_score": 1,
+        "hits": [{
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_98",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u0392\u039f\u03a5\u039b\u0391\u03a3",
+                "title": "\u03a0\u0391\u03a1\u0398\u0395\u039d\u0397\u03a3",
+                "municipality": "\u0392\u0391\u03a1\u0397\u03a3 - \u0392\u039f\u03a5\u039b\u0391\u03a3 - \u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a012\u03910092600",
+                "open_year": "1981-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "24",
+                "phone": "210 8956072",
+                "postal_code": "166 73",
+                "address": "\u039a\u03a9\u039d\/\u039d\u039f\u03a5 \u039a\u0391\u03a1\u0391\u039c\u0391\u039d\u039b\u0397 21 \u0392\u039f\u03a5\u039b\u0391 \u0391\u03a4\u03a4\u0399\u039a\u0397\u03a3\u0392\u039f\u03a5\u039b\u0391\u03a3",
+                "owner": "\u039a\u03a9\u039d\/\u039d\u039f\u03a3 \u03a0\u0391\u03a1\u0398\u0395\u039d\u0397\u03a3",
+                "businessman": "\u0399\u039f\u03a5\u039b\u0399\u0391 \u03a0\u0391\u03a1\u0398\u0395\u039d\u0397",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "2\u0391",
+                "total_beds": "47"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_106",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u039d\u0395\u0391\u03a3 \u039c\u0391\u039a\u03a1\u0397\u03a3",
+                "title": "\u0391\u039a\u03a4\u0397 \u0391\u03a4\u03a4\u0399\u039a\u0397 -",
+                "municipality": "\u039c\u0391\u03a1\u0391\u0398\u03a9\u039d\u039f\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a013\u03910088500",
+                "open_year": "1972-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "94",
+                "phone": "22940 33712",
+                "postal_code": "190 05",
+                "address": "\u039c\u0391\u03a4\u0399 \u0391\u03a4\u03a4\u0399\u039a\u0397\u03a3\u039d\u0395\u0391\u03a3 \u039c\u0391\u039a\u03a1\u0397\u03a3",
+                "owner": "\u0395\u039b\u03a0\u0399\u0394\u039f\u03a6\u039f\u03a1\u039f\u03a3 \u03a3. \u03a0\u0391\u03a0\u03a0\u0391\u03a3 \u039e\u0395\u039d. & \u03a4\u039f\u03a5\u03a1. \u0395\u03a0\u0399\u03a7\/\u03a3\u0395\u0399\u03a3 \u0391.\u0395.",
+                "businessman": "\u039e\u0395\u039d\u039f\u0394\u039f\u03a7\u0395\u0399\u0391 \u0391\u03a4\u03a4\u0399\u039a\u0397\u03a3 \u0395.\u03a0.\u0395.",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "3\u0391",
+                "total_beds": "178"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_113",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u0392\u039f\u03a5\u039b\u0391\u03a3",
+                "title": "\u03a0\u039b\u0391\u0396\u0391",
+                "municipality": "\u0392\u0391\u03a1\u0397\u03a3 - \u0392\u039f\u03a5\u039b\u0391\u03a3 - \u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a013\u03910092700",
+                "open_year": "1959-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "15",
+                "phone": "210 8991079",
+                "postal_code": "166 73",
+                "address": "\u039b\u0395\u03a9\u03a6. \u039a\u03a9\u039d\/\u039d\u039f\u03a5 \u039a\u0391\u03a1\u0391\u039c\u0391\u039d\u039b\u0397 17\u0392\u039f\u03a5\u039b\u0391\u03a3",
+                "owner": "PERSEAS TRADING (OVERSEAS) LTD",
+                "businessman": "\u039d\u03a4. \u0393\u039a\u039f\u039d\u03a4\u0395\u039d - \u03a3\u03a4. \u03a0\u0391\u03a1\u0398\u0395\u039d\u0397\u03a3 \u039f.\u0395.",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "3\u0391",
+                "total_beds": "28"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_81",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u0391\u039d\u039f\u0399\u039e\u0395\u03a9\u03a3",
+                "title": "\u0391\u039d\u039f\u0399\u039e\u0399\u03a3",
+                "municipality": "\u0394\u0399\u039f\u039d\u03a5\u03a3\u039f\u03a5",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a012\u03910086500",
+                "open_year": "1979-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "22",
+                "phone": "210 8140653",
+                "postal_code": "145 65",
+                "address": "\u039b\u0395\u03a9\u03a6. \u039c\u0391\u03a1\u0391\u0398\u03a9\u039d\u039f\u03a3 17\u0391\u039d\u039f\u0399\u039e\u0395\u03a9\u03a3",
+                "owner": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3 & \u0399\u03a9\u0391\u039d\u039d\u0397\u03a3 \u039a\u03a1\u039f\u039a\u0399\u0394\u0391\u03a3",
+                "businessman": "\u03a8\u0391\u039b\u0399\u0394\u0391\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "2\u0391",
+                "total_beds": "42"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_120",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u039d\u0395\u0391\u03a3 \u039c\u0391\u039a\u03a1\u0397\u03a3",
+                "title": "\u0391\u039a\u039f\u03a5\u0391 \u039c\u0391\u03a1\u0399\u039d\u0391 -",
+                "municipality": "\u039c\u0391\u03a1\u0391\u0398\u03a9\u039d\u039f\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a014\u03910000801",
+                "open_year": "2005-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "127",
+                "phone": "22940 77555",
+                "postal_code": "190 05",
+                "address": "\u039b. \u03a0\u039f\u03a3\u0395\u0399\u0394\u03a9\u039d\u039f\u03a3 55 - 57\u039d\u0395\u0391\u03a3 \u039c\u0391\u039a\u03a1\u0397\u03a3",
+                "owner": "\u03a4\u039f\u039e\u039f\u03a4\u0397\u03a3 \u0391.\u039e.\u0395.",
+                "businessman": "\u03a4\u039f\u039e\u039f\u03a4\u0397\u03a3 \u0391.\u039e.\u0395.",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "4\u0391",
+                "total_beds": "263"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_137",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3",
+                "title": "\u0391\u03a1\u0399\u03a9\u039d \u0391\u03a3\u03a4\u0397\u03a1 \u03a0\u0391\u039b\u039b\u0391\u03a3",
+                "municipality": "\u0392\u0391\u03a1\u0397\u03a3 - \u0392\u039f\u03a5\u039b\u0391\u03a3 - \u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0208\u039a015\u03910093100",
+                "open_year": "1967-03-18",
+                "region_region": "\u0391\u03bd\u03b1\u03c4. \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "astir.reservations@starwoodhotels.com",
+                "total_rooms": "184",
+                "phone": "210 8902000",
+                "postal_code": "166 71",
+                "address": "\u0391\u03a0\u039f\u039b\u039b\u03a9\u039d\u039f\u03a3 40\u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3",
+                "owner": "\u0391\u03a3\u03a4\u0397\u03a1 \u03a0\u0391\u039b\u039b\u0391\u03a3 \u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3 \u0391.\u039e.\u0395.",
+                "businessman": "\u0391\u03a3\u03a4\u0397\u03a1 \u03a0\u0391\u039b\u039b\u0391\u03a3 \u0392\u039f\u03a5\u039b\u0399\u0391\u0393\u039c\u0395\u039d\u0397\u03a3 \u0391.\u039e.\u0395.",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "5\u0391",
+                "total_beds": "350"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_579",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u039a\u0397\u03a6\u0399\u03a3\u0399\u0391\u03a3",
+                "title": "\u0398\u0395\u039f\u039e\u0395\u039d\u0399\u0391 \u03a0\u0391\u039b\u039b\u0391\u03a3 -",
+                "municipality": "\u039a\u0397\u03a6\u0399\u03a3\u0399\u0391\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0259\u039a015\u03910036800",
+                "open_year": "1960-03-18",
+                "region_region": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03c4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03ae\u03bd\u03c9\u03bd",
+                "email": "",
+                "total_rooms": "71",
+                "phone": "210 6233622-5",
+                "postal_code": "145 62",
+                "address": "\u03a6\u0399\u039b\u0391\u0394\u0395\u039b\u03a6\u0395\u03a9\u03a3 2\u039a\u0397\u03a6\u0399\u03a3\u0399\u0391\u03a3",
+                "owner": "\u0398\u0395\u039f\u039e\u0395\u039d\u0395\u0399\u0391 \u039a\u0397\u03a6\u0399\u03a3\u0399\u0391\u03a3 \u0399\u03a3\u0391\u039e \u0391.\u0395.",
+                "businessman": "\u0398\u0395\u039f\u039e\u0395\u039d\u0395\u0399\u0391 \u039a\u0397\u03a6\u0399\u03a3\u0399\u0391\u03a3 \u0399\u03a3\u0391\u039e \u0391.\u0395.",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "5\u0391",
+                "total_beds": "146"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_632",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u0399\u0399",
+                "municipality": "\u0395\u039b\u0395\u03a5\u03a3\u0399\u039d\u0391\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0209\u039a012\u03910097000",
+                "open_year": "1998-03-18",
+                "region_region": "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "email": "",
+                "total_rooms": "28",
+                "phone": "210 5546547",
+                "postal_code": "192 00",
+                "address": "\u03a7\u0391\u03a4\u0396\u0397\u0394\u0391\u039a\u0397 27 \u0395\u039b\u0395\u03a5\u03a3\u0399\u039d\u0391 \u0391\u03a4\u03a4\u0399\u039a\u0397\u03a3",
+                "owner": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u0397\u039b\u0399\u0391\u03a3 \u039a\u0391\u039b\u039b\u0399\u0391\u039d\u03a4\u0391\u03a3 \u03ba \u03a5\u0399\u039f\u0399 \u0391\u0395\u039e\u03a4\u0395\u0395",
+                "businessman": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u0397\u039b\u0399\u0391\u03a3 \u039a\u0391\u039b\u039b\u0399\u0391\u039d\u03a4\u0391\u03a3 \u03ba \u03a5\u0399\u039f\u0399 \u0391\u0395\u039e\u03a4\u0395\u0395",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "2\u0391",
+                "total_beds": "63"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_555",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u039b\u039f\u03a6\u039f\u03a3 -",
+                "municipality": "\u0391\u0393\u0399\u0391\u03a3 \u03a0\u0391\u03a1\u0391\u03a3\u039a\u0395\u03a5\u0397\u03a3",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0259\u039a011\u03910035400",
+                "open_year": "1973-03-18",
+                "region_region": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03c4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03ae\u03bd\u03c9\u03bd",
+                "email": "",
+                "total_rooms": "22",
+                "phone": "210 6084764",
+                "postal_code": "153 42",
+                "address": "\u0394\u0397\u039c\u0397\u03a4\u03a1\u0391\u03a3 6",
+                "owner": "\u03a3\u03a0\u03a5\u03a1\u039f\u03a3 & \u0395\u03a5\u03a3\u03a4\u0391\u0398\u0399\u039f\u03a3 \u0391\u039b\u0395\u03a6\u0391\u039d\u03a4\u0397\u03a3",
+                "businessman": "\u03a3\u03a0\u03a5\u03a1\u0399\u0394\u03a9\u039d \u03a0\u0395\u03a1\u0393\u0391\u039d\u03a4\u0397\u03a3",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "1\u0391",
+                "total_beds": "42"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_649",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u03a4\u039f\u03a5 \u039a\u0391\u03a0\u0395\u03a4\u0391\u039d\u0399\u039f\u03a5 -",
+                "municipality": "\u03a7\u0391\u03aa\u0394\u0391\u03a1\u0399\u039f\u03a5",
+                "region": "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+                "trademark": "0260\u039a012\u03910041500",
+                "open_year": "1975-03-18",
+                "region_region": "\u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u03c4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03ae\u03bd\u03c9\u03bd",
+                "email": "",
+                "total_rooms": "40",
+                "phone": "210 5578842- 3",
+                "postal_code": "124 62",
+                "address": "\u039b\u0395\u03a9\u03a6. \u03a3\u03a7\u0399\u03a3\u03a4\u039f\u03a5 & \u0392. \u0395\u039b\u039b\u0391\u0394\u039f\u03a3",
+                "owner": "\u0391\u039d\u0391\u03a3\u03a4\u0391\u03a3\u0399\u0391 \u0394. \u039c\u0391\u039a\u03a1\u0397",
+                "businessman": "\u0391\u039d\u0391\u03a3\u03a4\u0391\u03a3\u0399\u0391 \u0394. \u039c\u0391\u039a\u03a1\u0397",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "2\u0391",
+                "total_beds": "75"
+            }
+        }]
+    },
+    "aggregations": {
+        "articles_over_time": {
+            "buckets": [{
+                "key_as_string": "1956-03-01",
+                "key": -436665600000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1957-03-01",
+                "key": -405129600000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1958-03-01",
+                "key": -373593600000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1959-03-01",
+                "key": -342057600000,
+                "doc_count": 9
+            }, {
+                "key_as_string": "1960-03-01",
+                "key": -310435200000,
+                "doc_count": 34
+            }, {
+                "key_as_string": "1961-03-01",
+                "key": -278899200000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1962-03-01",
+                "key": -247363200000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1963-03-01",
+                "key": -215827200000,
+                "doc_count": 12
+            }, {
+                "key_as_string": "1964-03-01",
+                "key": -184204800000,
+                "doc_count": 17
+            }, {
+                "key_as_string": "1965-03-01",
+                "key": -152668800000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "1966-03-01",
+                "key": -121132800000,
+                "doc_count": 13
+            }, {
+                "key_as_string": "1967-03-01",
+                "key": -89596800000,
+                "doc_count": 11
+            }, {
+                "key_as_string": "1968-03-01",
+                "key": -57974400000,
+                "doc_count": 12
+            }, {
+                "key_as_string": "1969-03-01",
+                "key": -26438400000,
+                "doc_count": 12
+            }, {
+                "key_as_string": "1970-03-01",
+                "key": 5097600000,
+                "doc_count": 10
+            }, {
+                "key_as_string": "1971-03-01",
+                "key": 36633600000,
+                "doc_count": 12
+            }, {
+                "key_as_string": "1972-03-01",
+                "key": 68256000000,
+                "doc_count": 11
+            }, {
+                "key_as_string": "1973-03-01",
+                "key": 99792000000,
+                "doc_count": 17
+            }, {
+                "key_as_string": "1974-03-01",
+                "key": 131328000000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1975-03-01",
+                "key": 162864000000,
+                "doc_count": 17
+            }, {
+                "key_as_string": "1976-03-01",
+                "key": 194486400000,
+                "doc_count": 22
+            }, {
+                "key_as_string": "1977-03-01",
+                "key": 226022400000,
+                "doc_count": 15
+            }, {
+                "key_as_string": "1978-03-01",
+                "key": 257558400000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1979-03-01",
+                "key": 289094400000,
+                "doc_count": 127
+            }, {
+                "key_as_string": "1980-03-01",
+                "key": 320716800000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1981-03-01",
+                "key": 352252800000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1982-03-01",
+                "key": 383788800000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1983-03-01",
+                "key": 415324800000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1984-03-01",
+                "key": 446947200000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1985-03-01",
+                "key": 478483200000,
+                "doc_count": 21
+            }, {
+                "key_as_string": "1986-03-01",
+                "key": 510019200000,
+                "doc_count": 5
+            }, {
+                "key_as_string": "1987-03-01",
+                "key": 541555200000,
+                "doc_count": 45
+            }, {
+                "key_as_string": "1988-03-01",
+                "key": 573177600000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1989-03-01",
+                "key": 604713600000,
+                "doc_count": 10
+            }, {
+                "key_as_string": "1990-03-01",
+                "key": 636249600000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "1991-03-01",
+                "key": 667785600000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1992-03-01",
+                "key": 699408000000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1993-03-01",
+                "key": 730944000000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "1994-03-01",
+                "key": 762480000000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1995-03-01",
+                "key": 794016000000,
+                "doc_count": 12
+            }, {
+                "key_as_string": "1996-03-01",
+                "key": 825638400000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1997-03-01",
+                "key": 857174400000,
+                "doc_count": 9
+            }, {
+                "key_as_string": "1998-03-01",
+                "key": 888710400000,
+                "doc_count": 3
+            }, {
+                "key_as_string": "1999-03-01",
+                "key": 920246400000,
+                "doc_count": 6
+            }, {
+                "key_as_string": "2000-03-01",
+                "key": 951868800000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "2001-03-01",
+                "key": 983404800000,
+                "doc_count": 6
+            }, {
+                "key_as_string": "2002-03-01",
+                "key": 1014940800000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "2004-03-01",
+                "key": 1078099200000,
+                "doc_count": 8
+            }, {
+                "key_as_string": "2005-03-01",
+                "key": 1109635200000,
+                "doc_count": 5
+            }, {
+                "key_as_string": "2006-03-01",
+                "key": 1141171200000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "2007-03-01",
+                "key": 1172707200000,
+                "doc_count": 9
+            }, {
+                "key_as_string": "2008-03-01",
+                "key": 1204329600000,
+                "doc_count": 8
+            }, {
+                "key_as_string": "2009-03-01",
+                "key": 1235865600000,
+                "doc_count": 5
+            }, {
+                "key_as_string": "2010-03-01",
+                "key": 1267401600000,
+                "doc_count": 6
+            }, {
+                "key_as_string": "2011-03-01",
+                "key": 1298937600000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "2013-03-01",
+                "key": 1362096000000,
+                "doc_count": 1
+            }]
+        }
+    }
+}

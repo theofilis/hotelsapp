@@ -1,0 +1,494 @@
+{
+    "took": 5,
+    "timed_out": false,
+    "_shards": {
+        "total": 10,
+        "successful": 10,
+        "failed": 0
+    },
+    "hits": {
+        "total": 10102,
+        "max_score": 1,
+        "hits": [{
+            "_index": "hotels",
+            "_type": "camping",
+            "_id": "camping_7",
+            "_score": 1,
+            "_source": {
+                "authorized_number_places": "72",
+                "municipality_code": "9266",
+                "title": "\u03a7\u0399\u039f\u03a3 \u039a\u0391\u039c\u03a0\u0399\u039d\u0393\u039a",
+                "region": "\u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+                "municipality": "\u03a7\u0399\u039f\u03a5",
+                "open_year": "1990-03-18",
+                "region_region": "\u03a7\u03af\u03bf\u03c5",
+                "class": "0\u0393",
+                "phone": "74111-113-135-157",
+                "postal_code": "82300",
+                "authorized_number_lodgings": "0",
+                "address": "\u0391\u0393\u0399\u039f\u03a3 \u0399\u03a3\u0399\u0394\u03a9\u03a1\u039f\u03a3",
+                "businessman": "\u0396\u0391\u039d\u039d\u0399\u039a\u039f\u03a3 \u0391. \u039a\u0391\u0399 \u03a3\u0399\u0391 \u0395.\u0395",
+                "email": "",
+                "issue_authorization_date": "1990-04-06",
+                "authorized_number_people": "216"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "camping",
+            "_id": "camping_199",
+            "_score": 1,
+            "_source": {
+                "authorized_number_places": "83",
+                "municipality_code": "9270",
+                "title": "\u03a0\u0395\u03a1\u0399\u03a3\u03a3\u0391 \u039c\u03a0\u0397\u03a4\u03a3 \u039a\u0391\u039c\u03a0\u0399\u039d\u0393\u039a",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "open_year": null,
+                "region_region": "\u039c\u03ae\u03bb\u03bf\u03c5",
+                "class": "0\u0393",
+                "phone": "2286081343",
+                "postal_code": "84700",
+                "authorized_number_lodgings": "",
+                "address": "\u03a0\u0395\u03a1\u0399\u03a3\u03a3\u0391",
+                "businessman": "\u0393\u0391\u039b\u0391\u039d\u0391\u039a\u0397\u03a3 \u039a\u0391\u0399 \u03a3\u0399\u0391 \u039f.\u0395.",
+                "email": "",
+                "issue_authorization_date": null,
+                "authorized_number_people": "249"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "camping",
+            "_id": "camping_207",
+            "_score": 1,
+            "_source": {
+                "authorized_number_places": "20",
+                "municipality_code": "9291",
+                "title": "\u0391\u0399\u0393\u0399\u0391\u039b\u0397",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "municipality": "\u0391\u039c\u039f\u03a1\u0393\u039f\u03a5",
+                "open_year": null,
+                "region_region": "\u039d\u03ac\u03be\u03bf\u03c5",
+                "class": "0\u0393",
+                "phone": "2285073500",
+                "postal_code": "84008",
+                "authorized_number_lodgings": "",
+                "address": "\u0391\u0399\u0393\u0399\u0391\u039b\u0397",
+                "businessman": "\u03a3\u03a5\u039d\u039f\u0394\u0399\u039d\u039f\u03a3 \u0399\u03a9\u0391\u039d\u039d\u0397\u03a3",
+                "email": "",
+                "issue_authorization_date": null,
+                "authorized_number_people": "80"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "camping",
+            "_id": "camping_221",
+            "_score": 1,
+            "_source": {
+                "authorized_number_places": "116",
+                "municipality_code": "9294",
+                "title": "\u039a\u0391\u039c\u03a0\u0399\u039d\u0393\u039a \u039a\u0391\u03a0\u03a4\u0391\u0399\u039d \u039a\u0391\u03a5\u039a\u0397\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "municipality": "\u03a0\u0391\u03a1\u039f\u03a5",
+                "open_year": null,
+                "region_region": "\u03a0\u03ac\u03c1\u03bf\u03c5",
+                "class": "0\u0393",
+                "phone": "2284042252",
+                "postal_code": "84400",
+                "authorized_number_lodgings": "",
+                "address": "\u03a0\u0399\u03a3\u03a9 \u039b\u0399\u0392\u0391\u0394\u0399",
+                "businessman": "SAUTRE PATRICIA ANDREE",
+                "email": "",
+                "issue_authorization_date": null,
+                "authorized_number_people": "348"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "camping",
+            "_id": "camping_214",
+            "_score": 1,
+            "_source": {
+                "authorized_number_places": "68",
+                "municipality_code": "9294",
+                "title": "\u03a0\u0391\u03a1\u0391\u03a3\u03a0\u039f\u03a1\u039f\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "municipality": "\u03a0\u0391\u03a1\u039f\u03a5",
+                "open_year": null,
+                "region_region": "\u03a0\u03ac\u03c1\u03bf\u03c5",
+                "class": "0\u0393",
+                "phone": "2284021874",
+                "postal_code": "84400",
+                "authorized_number_lodgings": "",
+                "address": "\u03a0\u0391\u03a1\u039f\u0399\u039a\u0399\u0391",
+                "businessman": "\u03a3\u03a0\u0391\u0398\u0399\u0391\u03a3 \u0399\u03a9\u0391\u039d\u039d\u0397\u03a3",
+                "email": "",
+                "issue_authorization_date": null,
+                "authorized_number_people": "204"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_2283",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "\u0398\u0397\u03a1\u0391\u03a3",
+                "title": "\u03a3\u0391\u039d\u03a4\u039f\u03a1\u0399\u039d\u0397 \u03a0\u0391\u039b\u039b\u0391\u03a3",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "trademark": "1167\u039a014\u03910172800",
+                "open_year": "1991-03-18",
+                "region_region": "\u0398\u03ae\u03c1\u03b1\u03c2",
+                "email": "",
+                "total_rooms": "103",
+                "phone": "22860 22771",
+                "postal_code": "847 00",
+                "address": "\u03a6\u0397\u03a1\u039f\u03a3\u03a4\u0395\u03a6\u0391\u039d\u0399-\u03a6\u0397\u03a1\u0391\u0398\u0397\u03a1\u0391\u03a3",
+                "owner": "\u0391\u0395 \u039c\u0391\u03a1\u0399\u0391 \u0393\u039a\u039f\u03a5\u039c\u039f\u03a5\u0394\u0397 \u03a4\u039f\u03a5\u03a1\/\u039a\u0395\u03a3 \u0395\u03a0\u0399\u03a7\/\u03a3\u0395\u0399\u03a3",
+                "businessman": "\u0391\u0395 \u039c\u0391\u03a1\u0399\u0391 \u0393\u039a\u039f\u03a5\u039c\u039f\u03a5\u0394\u0397 \u03a4\u039f\u03a5\u03a1\/\u039a\u0395\u03a3 \u0395\u03a0\u0399\u03a7\/\u03a3\u0395\u0399\u03a3",
+                "type": "\u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u039a\u03bb\u03b1\u03c3\u03b9\u03ba\u03bf\u03cd \u03a4\u03cd\u03c0\u03bf\u03c5",
+                "class": "0\u0391",
+                "total_beds": "196"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_2290",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u0392\u0399\u039b\u039b\u0395\u03a3 \u0391\u0399\u039f\u039b\u039f\u03a3",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "trademark": "1167\u039a050\u03910303001",
+                "open_year": "1991-03-18",
+                "region_region": "\u0398\u03ae\u03c1\u03b1\u03c2",
+                "email": "",
+                "total_rooms": "7",
+                "phone": "2286023321",
+                "postal_code": "847 00",
+                "address": "\u0397\u039c\u0395\u03a1\u039f\u0392\u0399\u0393\u039b\u0399",
+                "owner": "\u039a\u039f\u039a\u039f\u039b\u0397\u03a3 \u0395\u039b\u0395\u03a5\u0398\u0395\u03a1\u0399\u039f\u03a3",
+                "businessman": "\u039a\u039f\u039a\u039f\u039b\u0397\u03a3 \u0395\u039b\u0395\u03a5\u0398\u0395\u03a1\u0399\u039f\u03a3-\u039a\u039f\u039a\u039f\u039b\u0397 \u0394\u0391\u03a6\u039d\u0397 \u039f.\u0395.",
+                "type": "\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac\u03bb\u03c5\u03bc\u03b1",
+                "class": "0\u0391",
+                "total_beds": "15"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_2315",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u0393\u039a\u0391\u039c\u03a0\u0399\u0391\u039d\u039f\u03a3",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "trademark": "1167\u039a070\u03910302301",
+                "open_year": "2010-03-18",
+                "region_region": "\u0398\u03ae\u03c1\u03b1\u03c2",
+                "email": "",
+                "total_rooms": "3",
+                "phone": "22886072107",
+                "postal_code": "847 00",
+                "address": "\u039f\u0399\u0391",
+                "owner": "\u039b\u0395\u039f\u039d\u0391\u03a1\u0394\u039f\u03a3 \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3",
+                "businessman": "\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u039b\u0395\u039f\u039d\u0391\u03a1\u0394\u039f\u03a3 \u039a' \u03a3\u03a5\u039d\u0395\u03a4\u0391\u0399\u03a1\u039f\u0399 \u039e\u0395\u039d.\u0395\u03a0\u0399\u03a7.\u0395\u03a0\u0395",
+                "type": "\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03cc \u039e\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03af\u03bf \u0395\u03c0\u03b9\u03c0\u03bb. \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03b9\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd",
+                "class": "0\u0391",
+                "total_beds": "11"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_2308",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u03a3\u03a0\u0399\u03a4\u0399\u0391 \u03a4\u0395\u03a7\u039d\u0397\u03a3 \u0391\u03a3\u03a0\u0391\u039a\u0399",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "trademark": "1167\u039a050\u03910008601",
+                "open_year": "2008-03-18",
+                "region_region": "\u0398\u03ae\u03c1\u03b1\u03c2",
+                "email": "",
+                "total_rooms": "8",
+                "phone": "2286071831",
+                "postal_code": "847 00",
+                "address": "\u039f\u0399\u0391",
+                "owner": "\u039d\u0399\u039a\u039f\u039b\u039f\u03a5\u0396\u039f\u03a3 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a3",
+                "businessman": "\u039d\u0399\u039a\u039f\u039b\u039f\u03a5\u0396\u039f\u03a3 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a3",
+                "type": "\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac\u03bb\u03c5\u03bc\u03b1",
+                "class": "0\u0391",
+                "total_beds": "20"
+            }
+        }, {
+            "_index": "hotels",
+            "_type": "lodgings",
+            "_id": "lodgings_2276",
+            "_score": 1,
+            "_source": {
+                "municipality_region": "",
+                "title": "\u039a\u0391\u03a4\u039f\u0399\u039a\u0399\u0395\u03a3",
+                "municipality": "\u0398\u0397\u03a1\u0391\u03a3",
+                "region": "\u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5 (\u039a\u03c5\u03ba\u03bb\u03ac\u03b4\u03b5\u03c2)",
+                "trademark": "1167\u039a015\u03910180300",
+                "open_year": "1988-03-18",
+                "region_region": "\u0398\u03ae\u03c1\u03b1\u03c2",
+                "email": "",
+                "total_rooms": "10",
+                "phone": "",
+                "postal_code": "847 02",
+                "address": "",
+                "owner": "\u039a\u0391\u03a4\u039f\u0399\u039a\u0399\u0395\u03a3 \u039e\u0395\u039d. \u03a4\u039f\u03a5\u03a1. \u0391.\u0395.",
+                "businessman": "\u039a\u0391\u03a4\u039f\u0399\u039a\u0399\u0395\u03a3 \u039e\u0395\u039d. \u03a4\u039f\u03a5\u03a1. \u0391.\u0395.",
+                "type": "\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac\u03bb\u03c5\u03bc\u03b1",
+                "class": "\u0391\u0391",
+                "total_beds": "20"
+            }
+        }]
+    },
+    "aggregations": {
+        "articles_over_time": {
+            "buckets": [{
+                "key_as_string": "1933-03-01",
+                "key": -1162512000000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1955-03-01",
+                "key": -468288000000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1956-03-01",
+                "key": -436665600000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1957-03-01",
+                "key": -405129600000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1958-03-01",
+                "key": -373593600000,
+                "doc_count": 2
+            }, {
+                "key_as_string": "1959-03-01",
+                "key": -342057600000,
+                "doc_count": 1
+            }, {
+                "key_as_string": "1960-03-01",
+                "key": -310435200000,
+                "doc_count": 22
+            }, {
+                "key_as_string": "1961-03-01",
+                "key": -278899200000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "1962-03-01",
+                "key": -247363200000,
+                "doc_count": 7
+            }, {
+                "key_as_string": "1963-03-01",
+                "key": -215827200000,
+                "doc_count": 4
+            }, {
+                "key_as_string": "1964-03-01",
+                "key": -184204800000,
+                "doc_count": 10
+            }, {
+                "key_as_string": "1965-03-01",
+                "key": -152668800000,
+                "doc_count": 6
+            }, {
+                "key_as_string": "1966-03-01",
+                "key": -121132800000,
+                "doc_count": 5
+            }, {
+                "key_as_string": "1967-03-01",
+                "key": -89596800000,
+                "doc_count": 8
+            }, {
+                "key_as_string": "1968-03-01",
+                "key": -57974400000,
+                "doc_count": 24
+            }, {
+                "key_as_string": "1969-03-01",
+                "key": -26438400000,
+                "doc_count": 22
+            }, {
+                "key_as_string": "1970-03-01",
+                "key": 5097600000,
+                "doc_count": 14
+            }, {
+                "key_as_string": "1971-03-01",
+                "key": 36633600000,
+                "doc_count": 11
+            }, {
+                "key_as_string": "1972-03-01",
+                "key": 68256000000,
+                "doc_count": 5
+            }, {
+                "key_as_string": "1973-03-01",
+                "key": 99792000000,
+                "doc_count": 10
+            }, {
+                "key_as_string": "1974-03-01",
+                "key": 131328000000,
+                "doc_count": 3
+            }, {
+                "key_as_string": "1975-03-01",
+                "key": 162864000000,
+                "doc_count": 9
+            }, {
+                "key_as_string": "1976-03-01",
+                "key": 194486400000,
+                "doc_count": 69
+            }, {
+                "key_as_string": "1977-03-01",
+                "key": 226022400000,
+                "doc_count": 55
+            }, {
+                "key_as_string": "1978-03-01",
+                "key": 257558400000,
+                "doc_count": 33
+            }, {
+                "key_as_string": "1979-03-01",
+                "key": 289094400000,
+                "doc_count": 37
+            }, {
+                "key_as_string": "1980-03-01",
+                "key": 320716800000,
+                "doc_count": 41
+            }, {
+                "key_as_string": "1981-03-01",
+                "key": 352252800000,
+                "doc_count": 51
+            }, {
+                "key_as_string": "1982-03-01",
+                "key": 383788800000,
+                "doc_count": 43
+            }, {
+                "key_as_string": "1983-03-01",
+                "key": 415324800000,
+                "doc_count": 65
+            }, {
+                "key_as_string": "1984-03-01",
+                "key": 446947200000,
+                "doc_count": 80
+            }, {
+                "key_as_string": "1985-03-01",
+                "key": 478483200000,
+                "doc_count": 72
+            }, {
+                "key_as_string": "1986-03-01",
+                "key": 510019200000,
+                "doc_count": 59
+            }, {
+                "key_as_string": "1987-03-01",
+                "key": 541555200000,
+                "doc_count": 73
+            }, {
+                "key_as_string": "1988-03-01",
+                "key": 573177600000,
+                "doc_count": 77
+            }, {
+                "key_as_string": "1989-03-01",
+                "key": 604713600000,
+                "doc_count": 110
+            }, {
+                "key_as_string": "1990-03-01",
+                "key": 636249600000,
+                "doc_count": 115
+            }, {
+                "key_as_string": "1991-03-01",
+                "key": 667785600000,
+                "doc_count": 96
+            }, {
+                "key_as_string": "1992-03-01",
+                "key": 699408000000,
+                "doc_count": 75
+            }, {
+                "key_as_string": "1993-03-01",
+                "key": 730944000000,
+                "doc_count": 126
+            }, {
+                "key_as_string": "1994-03-01",
+                "key": 762480000000,
+                "doc_count": 32
+            }, {
+                "key_as_string": "1995-03-01",
+                "key": 794016000000,
+                "doc_count": 103
+            }, {
+                "key_as_string": "1996-03-01",
+                "key": 825638400000,
+                "doc_count": 86
+            }, {
+                "key_as_string": "1997-03-01",
+                "key": 857174400000,
+                "doc_count": 39
+            }, {
+                "key_as_string": "1998-03-01",
+                "key": 888710400000,
+                "doc_count": 46
+            }, {
+                "key_as_string": "1999-03-01",
+                "key": 920246400000,
+                "doc_count": 65
+            }, {
+                "key_as_string": "2000-03-01",
+                "key": 951868800000,
+                "doc_count": 84
+            }, {
+                "key_as_string": "2001-03-01",
+                "key": 983404800000,
+                "doc_count": 68
+            }, {
+                "key_as_string": "2002-03-01",
+                "key": 1014940800000,
+                "doc_count": 29
+            }, {
+                "key_as_string": "2003-03-01",
+                "key": 1046476800000,
+                "doc_count": 20
+            }, {
+                "key_as_string": "2004-03-01",
+                "key": 1078099200000,
+                "doc_count": 32
+            }, {
+                "key_as_string": "2005-03-01",
+                "key": 1109635200000,
+                "doc_count": 50
+            }, {
+                "key_as_string": "2006-03-01",
+                "key": 1141171200000,
+                "doc_count": 61
+            }, {
+                "key_as_string": "2007-03-01",
+                "key": 1172707200000,
+                "doc_count": 51
+            }, {
+                "key_as_string": "2008-03-01",
+                "key": 1204329600000,
+                "doc_count": 67
+            }, {
+                "key_as_string": "2009-03-01",
+                "key": 1235865600000,
+                "doc_count": 87
+            }, {
+                "key_as_string": "2010-03-01",
+                "key": 1267401600000,
+                "doc_count": 77
+            }, {
+                "key_as_string": "2011-03-01",
+                "key": 1298937600000,
+                "doc_count": 56
+            }, {
+                "key_as_string": "2012-03-01",
+                "key": 1330560000000,
+                "doc_count": 13
+            }, {
+                "key_as_string": "2013-03-01",
+                "key": 1362096000000,
+                "doc_count": 7
+            }]
+        }
+    }
+}

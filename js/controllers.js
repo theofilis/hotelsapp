@@ -160,7 +160,7 @@ angular.module('analysis.controllers')
 
 				MG.data_graphic({
 					title: $scope.name[$scope.id],
-					description: "Turism in " + $scope.name[$scope.id] + " from the year " + min.date + " to " + max.date + ".",
+					description: "",
 					data: tdata,
 					width: document.getElementById("mydiv").offsetWidth,
 					height: document.getElementById("mydiv").offsetWidth / 3,
@@ -171,6 +171,7 @@ angular.module('analysis.controllers')
 					show_secondary_x_label: false,
 					xax_format: d3.time.format('%Y')
 				});
+				//Turism in " + $scope.name[$scope.id] + " from the year " + min.date + " to " + max.date + ".
 			});
 		});
 	}]);

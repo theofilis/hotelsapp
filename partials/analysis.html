@@ -1,11 +1,10 @@
 <div class="container">
 	<div class="row">
-		<h1>Historical Trends in Greece Touristic Business</h1>
-		<div class="form-group">
-			<label class="control-label">
+		<div>
+			<label>
 				Region: 
 			</label>
-			<select ng-model="id" class="form-control">
+			<select ng-model="id"  class="browser-default">
 				<option ng-repeat="(id, n) in name" value="{{id}}">{{n}}</option>
 			</select>
 		</div>
@@ -13,13 +12,4 @@
 	<div id="mydiv" class="row">
 		<div id="trend" style="margin-top: 50px;" class="col-sm-12"></div>	
 	</div>
-<!-- 	<div class="row">
-		<p>
-			The earliest tourist business in <b>{{name[id]}}</b> opened <b>{{min.date | date}}</b>
-		</p>
-		<p>
-			The newest tourist business in <b>{{name[id]}}</b> opened <b>{{max.date | date}}</b>
-		</p>
-	</div> -->
 </div>
-

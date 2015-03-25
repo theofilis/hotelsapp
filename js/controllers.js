@@ -159,7 +159,7 @@ angular.module('analysis.controllers')
 				$scope.max = max;
 
 				MG.data_graphic({
-					title: $scope.name[$scope.id],
+					//title: $scope.name[$scope.id],
 					description: "",
 					data: tdata,
 					width: document.getElementById("mydiv").offsetWidth,

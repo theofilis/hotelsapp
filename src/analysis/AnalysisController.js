@@ -75,7 +75,7 @@
         $scope.$watch(function () {
           return (self.id || "");
         }, function(id) {
-          $timeout(updateGraph(id), 500);
+          $timeout(updateGraph(id), 250);
         });
 
         /**

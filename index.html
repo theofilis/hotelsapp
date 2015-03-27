@@ -1,51 +1,95 @@
 <!DOCTYPE html>
-<html ng-app="analysis" lang="en">
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html lang="en" >
+  <head>
+	<title>Greek Tourist business</title>
+
 	<meta charset="utf-8">
-	<title>Greek Touristic Business</title>
-	<meta name="generator" content="Bootply" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic'>
+	<link rel="stylesheet" href="./bower_components/angular-material/angular-material.css"/>
+	<link rel="stylesheet" href="assets/app.css"/>
+	<link rel="stylesheet" href="bower_components/metrics-graphics/dist/metricsgraphics.css"/>
+  </head>
+
+  <body ng-app="starterApp" layout="column" ng-controller="AnalysisController as ul">
+
+	<md-toolbar layout="row">
+	  <md-button class="menu" hide-gt-sm ng-click="ul.toggleList()" aria-label="">
+		<md-icon md-svg-icon="menu"></md-icon>
+	  </md-button>
+	  <h1>Greek Tourist business</h1>
+	</md-toolbar>
+
+	<div flex layout="row">
+		<md-sidenav md-is-locked-open="$mdMedia('gt-sm')" class="md-whiteframe-z2" md-component-id="left">
+			<md-list>
+				<md-item ng-repeat="it in ul.pages">
+					<md-button ng-click="ul.selectPage(it)" ng-class="{'selected' : it === ul.selected }">
+						<md-icon md-svg-icon="{{it.avatar}}" class="avatar"></md-icon>
+						{{it.name}}
+					</md-button>
+				</md-item>
+			</md-list>
+		</md-sidenav>
+		<md-content flex id="content" ng-view>
+		</md-content>
+
+	</div>
+
+	<script src="./bower_components/angular/angular.js"></script>
+	<script src="./bower_components/angular-animate/angular-animate.js"></script>
+	<script src="./bower_components/angular-aria/angular-aria.js"></script>
+	<script src="./bower_components/angular-route/angular-route.js"></script>
+   
+	<script src="./bower_components/d3/d3.js"></script>
+	<script src="./bower_components/jquery/dist/jquery.js"></script>
+	<script src="./bower_components/metrics-graphics/dist/metricsgraphics.js"></script>
 	
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">      
-	<link href="css/metricsgraphics.css" rel="stylesheet" type="text/css">
-	<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+	<script type="text/javascript" src="./bower_components/angular-material/angular-material.js"></script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.0/d3.min.js" charset="utf-8"></script>
+	<script src="./src/analysis/Analysis.js"></script>
+	<script src="./src/analysis/AnalysisController.js"></script>
+	<script src="./src/analysis/AnalysisService.js"></script>
 
-	<script src="js/metricsgraphics.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/2.2.1/echarts-all.js"></script>
-	<script src="js/angular.min.js"></script>
-	<script src="js/angular-route.min.js"></script>
-	<script src="js/app.js"></script>
-	<script src="js/controllers.js"></script>
+	<script type="text/javascript">
+		"use strict";
+		angular
+			.module('starterApp', ['ngMaterial', 'ngRoute', 'analysis'])
+			.config(function($mdThemingProvider, $mdIconProvider){
 
-	<!--[if lt IE 9]>
-		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	<style>
-		html,
-		body,
-		#map-canvas {
-			height: 700px;
-			margin: 0px;
-			padding: 0px
-		}
-		#panel {
-			position: absolute;
-			top: 5px;
-			left: 50%;
-			margin-left: -180px;
-			z-index: 5;
-			background-color: #fff;
-			padding: 5px;
-			border: 1px solid #999;
-		}
-	</style>
-</head>
-<body class="">
-	<div ng-view></div>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
-</body>
+				$mdIconProvider
+					.defaultIconSet("./assets/svg/avatars.svg", 128)
+					.icon("menu"       , "./assets/svg/menu.svg"        , 24)
+					.icon("share"      , "./assets/svg/share.svg"       , 24)
+					.icon("google_plus", "./assets/svg/google_plus.svg" , 512)
+					.icon("hangouts"   , "./assets/svg/hangouts.svg"    , 512)
+					.icon("twitter"    , "./assets/svg/twitter.svg"     , 512)
+					.icon("phone"      , "./assets/svg/phone.svg"       , 512);
+
+				$mdThemingProvider.theme('default')
+					.primaryPalette('indigo')
+					.accentPalette('pink');
+
+			});
+
+
+		angular
+			.module('starterApp').config(['$routeProvider', function($routeProvider) {
+				$routeProvider.
+					when('/', {
+					  templateUrl: './partial/analysis.html'
+					}).
+					when('/class', {
+					  templateUrl: './partial/class.html'
+					}).
+					otherwise({
+					  redirectTo: '/'
+					});
+		}]);
+	</script>
+
+  </body>
 </html>
